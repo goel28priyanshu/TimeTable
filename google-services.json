@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1000909193239",
+    "firebase_url": "https://timetable-7c1e2.firebaseio.com",
+    "project_id": "timetable-7c1e2",
+    "storage_bucket": "timetable-7c1e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000909193239:android:d04d5e46d469bbc5cf1c52",
+        "android_client_info": {
+          "package_name": "com.internshala.timetableattendancetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000909193239-6j50p52888km0nfedgcsg395tlf33cca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW7szlCSgA86nvOU3j6_8VjrRJnNJvweg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000909193239-6j50p52888km0nfedgcsg395tlf33cca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
