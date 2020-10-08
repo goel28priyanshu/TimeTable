@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Time Table &amp; Attendance Tracker</string>
+    <string name="sds"><![CDATA[&]]></string>
+    <string name="let_s_handle_your_time_table">Let\'s Handle your Time table</string>
+    <string name="attendance">Attendance</string>
+    <string name="hey_newbie">Hey Newbie !!</string>
+
+</resources>
